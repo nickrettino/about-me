@@ -42,7 +42,7 @@ hr {
     border-width: 5px;
     width: 5%;
     border-color: #0F3460;
-    margin: 3% auto 3% auto;
+    margin: 5% auto 3% auto;
 
 }
 
@@ -110,12 +110,14 @@ p {
     width: 25%;
     float: left;
     margin-right: 30px;
+    padding-top: -50px
 }
 
 .gaming-image {
     width: 25%;
     float: right;
     margin-right: 30px;
+    padding-top: -50px;
 }
 
 .btn {
